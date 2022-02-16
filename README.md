@@ -4,7 +4,8 @@
    🔥 I am 19 years old guy 😼
     
   🔶 I am Junior Web Developer. Now I am learning Back-End development. 🔶
-     🔶 I can use this technologies :
+  
+   🔶 I can use this technologies :
           ✅ HTML
           ✅ CSS
           ✅ Javascript
