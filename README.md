@@ -3,9 +3,17 @@
     
    🔥 I am 19 year's old guy 😼
     
- 🔶 I am Junior Web Developer. Now I am learning Back-End development. 🔶
+  🔶 I am Junior Web Developer. Now I am learning Back-End development. 🔶
+     🔶 I can use this technologies :
+          ✅ HTML
+          ✅ CSS
+          ✅ Javascript
+          ✅ Jquerry
+          ✅ SASS
+          ✅ BootStrap
 
-   🔸 I am developing own page with some of my repositories/works. 🔸 
+
+   🔸 I have own page with some of my repositories/works. It's in the "Work In Progress" status, so most likely the way ше looks isn't final :)  🔸 
       
       
   ⏬⏬⏬             You can see this with link below:           ⏬⏬⏬
@@ -16,7 +24,7 @@
   🔥🔥🔥   https://nikolassnorkell.github.io/My-Repositories/   🔥🔥🔥
 
 
-
+ 📬  You can contact me there: snorkell.work@gmail.com  📬
 
 
 ███╗░░██╗██╗██╗░░██╗░█████╗░██╗░░░░░░█████╗░░██████╗
