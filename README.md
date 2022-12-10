@@ -12,6 +12,9 @@
           ✅ Jquerry
           ✅ SASS
           ✅ BootStrap
+          ✅ Git
+          ✅ MySQL
+          ✅ PHP
 
 
 🔸I have own page with some of my repositories/works. It's in the "Work In Progress" status, so most likely the way it looks isn't final🔸 
