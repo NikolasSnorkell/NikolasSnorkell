@@ -17,6 +17,8 @@
           ✅ PHP
 
 
+🔸My resume https://drive.google.com/drive/folders/11r2Yeu93c4XZZchu5xtA__8Mabt6OyFp?usp=sharing 🔸
+
 🔸I have own page with some of my repositories/works. It's in the "Work In Progress" status, so most likely the way it looks isn't final🔸 
       
       
@@ -26,9 +28,11 @@
   🔥🔥🔥   https://nikolassnorkell.github.io/My-Repositories/   🔥🔥🔥
   
   
-  ⏬⏬⏬             This is my project with beck-end (with DB):           ⏬⏬⏬
+  ⏬⏬⏬             This is my projects with beck-end (with DB):           ⏬⏬⏬
   
   🔥🔥🔥   http://a0755770.xsph.ru/trekking/   🔥🔥🔥
+  🔥🔥🔥   http://a0755770.xsph.ru/todolist/  (WIP) 🔥🔥🔥
+
 
 
  📬  You can contact me there: snorkell.work@gmail.com  📬
