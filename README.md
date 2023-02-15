@@ -28,10 +28,10 @@
   🔥🔥🔥   https://nikolassnorkell.github.io/My-Repositories/   🔥🔥🔥
   
   
-  ⏬⏬⏬             This is my projects with beck-end (with DB):           ⏬⏬⏬
+  ⏬⏬⏬             This is my projects with beck-end:           ⏬⏬⏬
   
   🔥🔥🔥   http://a0755770.xsph.ru/trekking/   🔥🔥🔥
-  🔥🔥🔥   http://a0755770.xsph.ru/todolist/  (WIP) 🔥🔥🔥
+  🔥🔥🔥   http://194.190.153.37:8080/ 🔥🔥🔥
 
 
 
