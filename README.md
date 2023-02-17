@@ -17,7 +17,7 @@
           ✅ PHP
 
 
-🔸My resume https://drive.google.com/drive/folders/11r2Yeu93c4XZZchu5xtA__8Mabt6OyFp?usp=sharing 🔸
+🔸My resume https://drive.google.com/drive/folders/1Ux_UvxPOx0NBbnLP3WYXnoRWws1ur5Ws?usp=sharing 🔸
 
 🔸I have own page with some of my repositories/works. It's in the "Work In Progress" status, so most likely the way it looks isn't final🔸 
       
