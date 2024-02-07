@@ -1,5 +1,5 @@
 
-  💥 Hello! 💥 My name is Nikolas. 💥
+  💥 Hello! 💥 I am Nikita. 💥
       
 🔸My resume https://drive.google.com/drive/folders/1Ux_UvxPOx0NBbnLP3WYXnoRWws1ur5Ws?usp=sharing 🔸
           
